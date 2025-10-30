@@ -10,6 +10,7 @@ Vortix External
 ### Features:
 - Auto Offsets Updater
 - Custom Themes
+- Game Explorer
 - Aimbot
 - Triggerbot
 - Esp
