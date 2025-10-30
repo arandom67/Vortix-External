@@ -21,3 +21,5 @@ Vortix External
 ### Features that currently DONT work:
 - Aimbot Prediction
 - Fly
+
+Discord: https://discord.gg/tyKhy29qN7
